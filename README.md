@@ -1,7 +1,7 @@
-Projeto Integrador V - SafeLocker
+Integrator Project V - SafeLocker
 
-Desenvolvido por Guilherme Santos, João Marcelo Campos, Kevin Molinari e Thomas Batista
+Developed by Guilherme Santos, João Marcelo Campos, Kevin Molinari, and Thomas Batista
 
-Back-End/API, Front-End e Database Guilherme Santos & Thomas Batista
+Back-End/API, Front-End, and Database: Guilherme Santos
 
-Circuito: João Marcelo Campos & Kevin Molinari
+Circuit: João Marcelo Campos & Guilherme
